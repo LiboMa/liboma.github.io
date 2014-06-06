@@ -4,8 +4,17 @@ title: 关于我
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+混迹于IT圈里的运维人士，目前京职于一家金融公司依然IT运维。除了技术，喜欢历史，音乐，诗歌。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Expertise:
+    * Linux admin
+    * Python/Shell scripting
+    * Network Troubleshooting
+    * Flunce English
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+关于我，给自己下定义不是特别容易，就算是IT吧。
+
+特此感谢阮一峰博主的帮助，才让此博客有机会出现。
+
+2014.6.6
+

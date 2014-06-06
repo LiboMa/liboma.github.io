@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magic World</title>
+    <description>Try it one more time in the Magic World is the only way to make wounderful thing. And it is the same thing about life. Simplicity is most complexity. Think more, Talk less, and Try it one more time. Welcome to my Magic World</description>
+    <link>http://liboma.gihub.io/</link>
+    <atom:link href="http://liboma.gihub.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Greetings</title>
+        <description>&lt;p&gt;For years, I have beeing searhing a very simple and easy to use blog system for myself. Now I owned this. Thanks to &lt;code&gt;Jekll&lt;/code&gt; and &lt;code&gt;Github&lt;/code&gt;This is my first post using Jekll.&lt;/p&gt;
+
+&lt;p&gt;I would like to thank some experts to help me on this Topics &lt;a href=&quot;http://www.ruanyifeng.com/&quot;&gt;阮一峰&lt;/a&gt; and &lt;a href=&quot;http://dylanninin.com/blog/2013/12/11/thinking.html&quot;&gt;Dylan&lt;/a&gt; Although we did not each other on the real world. But I learned very useful thing from him. This is the Magic of Internet and Computer. Thanks.&lt;/p&gt;
+
+&lt;p&gt;This blog is aimed to share my personal life and any technology topics related. Hope you will enjoy it. :)&lt;/p&gt;
+
+&lt;p&gt;Topics:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Technology&lt;/li&gt;
+  &lt;li&gt;Literature&lt;/li&gt;
+  &lt;li&gt;Music&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Reference Links:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://markdown.tw/#img&quot;&gt;markdown manual&lt;/a&gt;[CN-TW]&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/editing-help&quot;&gt;markdown StackOverflow&lt;/a&gt;[EN]&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;markdown Official&lt;/a&gt;[EN]&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 06 Jun 2014 00:00:00 +0800</pubDate>
+        <link>http://liboma.gihub.io/default/2014/06/06/greetings-to-the-blog-move/</link>
+        <guid isPermaLink="true">http://liboma.gihub.io/default/2014/06/06/greetings-to-the-blog-move/</guid>
+      </item>
+    
+  </channel>
+</rss>

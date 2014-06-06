@@ -7,9 +7,9 @@ Copy this to your new post:
 
 \---
 
-layout: post
+layout: post 
 title: 
-categories: default
+categories: default 
 tags: 
 
 \---

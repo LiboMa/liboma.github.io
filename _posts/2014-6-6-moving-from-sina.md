@@ -1,9 +1,9 @@
 ---
 
-layout: post 
-title: Blog Moving
+layout:post
+title:Blog Moving
 categories:default 
-tags: default
+tags:default
 
 ---
 

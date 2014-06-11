@@ -2,9 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Magic World</title>
-    <description>Try it one more time in the Magic World is the only way to make wounderful thing. And it is the same thing about life. Simplicity is most complexity. Think more, Talk less, and Try it one more time. Welcome to my Magic World</description>
+    <description>Try it one more time on the Magic World is the only way to make wounderful thing. And it is the same thing about life. Simplicity is most complexity. Think more, Talk less, and Try it one more time. Welcome to my Magic World</description>
     <link>http://liboma.gihub.io/</link>
     <atom:link href="http://liboma.gihub.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>什么是你生活的本源？</title>
+        <description>&lt;p&gt;什么是你生活的本源？&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jun 2014 00:00:00 +0800</pubDate>
+        <link>http://liboma.gihub.io/life/2014/06/10/where-is-your-source-life/</link>
+        <guid isPermaLink="true">http://liboma.gihub.io/life/2014/06/10/where-is-your-source-life/</guid>
+      </item>
+    
+      <item>
+        <title>发现生活之美-简单</title>
+        <description>&lt;p&gt;对于生活，如果缺乏了对某种事物的热情，那生命将变得很可怖。这样的生活随着年龄的成长，也许将变得越来越明显。于是人们竭尽全力的去摆脱这样的状态。但是，如果不是真正的找到生活的支撑，那将是多么艰难的旅程啊？&lt;/p&gt;
+
+&lt;p&gt;正因为如此，我不停的发展自己的爱好，弹吉它，看书，看电影。也努力需找生活的伴侣，甚至通过结婚、生子来平衡自己的生活。在这一个个的任务、角色切换过程之中，我们不断的寻找自己，又不断的迷失。曾经相信的，现在不再相信，曾经唾弃的现在也已经难分清界限。心中疑问的是，这样的每天都在发生的改变，随着磨练的增加而改变，随着年龄的长成而改变，最后我们变成了什么样子？翻过来再去看时，已经是物非人非了。所以，我不禁问自己，一定要这样吗？一定要非如此不可吗？&lt;/p&gt;
+
+&lt;p&gt;一旦心中的理想停止了憧憬，热情慢慢的消融之后，也许生活只剩下单调与重复，重复别人眼中的自己，重复社会中的自己。自己真正的诉求在哪里？也许就是单纯的看待事物的，单纯的相信一些东西，并坚持住吧。越来越发现越是简单事物越是容易产生的美。生活也许就像原来那样简单又美好，只是人自己越得越来复杂了，所以就很难感觉出美来，大概这就是根源所在。&lt;/p&gt;
+
+&lt;p&gt;2014.5.21&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 09 Jun 2014 00:00:00 +0800</pubDate>
+        <link>http://liboma.gihub.io/default/2014/06/09/beautiful_life_is_simple/</link>
+        <guid isPermaLink="true">http://liboma.gihub.io/default/2014/06/09/beautiful_life_is_simple/</guid>
+      </item>
+    
+      <item>
+        <title>Blog Moving</title>
+        <description>&lt;p&gt;从新浪的BLog迁移出来，一是发现了这个新系统试玩一下，二是因为发现在新浪的BLoger里丢失了06年发部的贴子。气愤之余，就决定将BLog迁出，摆脱无良企业束缚。&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 06 Jun 2014 00:00:00 +0800</pubDate>
+        <link>http://liboma.gihub.io/default/2014/06/06/moving-from-sina/</link>
+        <guid isPermaLink="true">http://liboma.gihub.io/default/2014/06/06/moving-from-sina/</guid>
+      </item>
     
       <item>
         <title>Greetings From Me</title>

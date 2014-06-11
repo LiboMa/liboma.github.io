@@ -18,8 +18,13 @@
       </a>
       <div class="trigger">
         {% for page in site.pages %}
+        {% if page.url =='/about/' %}
+        {% continue %}
+        {%endif%}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
         {% endfor %}
+          <a class="page-link" href="/about/">自述</a>
+
       </div>
     </nav>
 
